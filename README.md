@@ -80,5 +80,5 @@ npm install
 # Rode as migrations do Prisma
 npx prisma migrate dev
 
-# Inicie o servidor em modo de desenvolvimento
-npm run start:dev
+# Inicie o servidor 
+npm nest start.
